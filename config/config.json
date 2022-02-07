@@ -1,0 +1,21 @@
+{
+  "OWNER_ADDRESS": "0x0ba4E2EfA5FE4BaAE0f8126c7a002BDB12E45D2a",
+  "CONTRACT_ADDRESS": "0x6eBd592A48306a8F9C9f6155E1106c89e685744A",
+
+  "SCAN_LINK": "https://Etherscan.com/0x6eBd592A48306a8F9C9f6155E1106c89e685744A",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Babbling Baboon Club",
+  "SYMBOL": "BBC",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 40000000000000000,
+
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/BabblingBaboonClub",
+  "SHOW_BACKGROUND": true
+}
